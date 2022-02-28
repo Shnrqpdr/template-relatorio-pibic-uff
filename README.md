@@ -1,7 +1,7 @@
 # template-relatorio-pibic-uff
 Template para a construção do relatório (parcial e final) do programa de iniciação científica PIBIC-UFF.
 
-------------------------- INSTRUÇÕES PARA USO: ------------------------------
+-------------------------------------- INSTRUÇÕES PARA USO: -----------------------------------------
 
      Conforme o modelo do relatório PIBIC-UFF, deve ser inserido como folha de capa uma folha
      contendo as informações do projeto e os dados do orientador e do bolsista.
