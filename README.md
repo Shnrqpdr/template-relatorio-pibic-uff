@@ -23,17 +23,7 @@ listadas a seguir:
 abtex2-modelo-trabalho-academico.tex, v-1.9.2 laurocesar
 Copyright 2012-2014 by abnTeX2 group at http://abntex2.googlecode.com/ 
 
-This work may be distributed and/or modified under the
-
-The latest version of this license is in
-http://www.latex-project.org/lppl.txt
-and version 1.3 or later is part of all distributions of LaTeX
-version 2005/12/01 or later.
-
-This work has the LPPL maintenance status maintained
-
-The Current Maintainer of this work is the abnTeX2 team, led
-by Lauro César Araujo. Further information are available on 
+Further information are available on 
 http://abntex2.googlecode.com/
 
 Copyright © 2022, Pedro Henrique dos Santos Cunha, Victor Dieguez Correa.
